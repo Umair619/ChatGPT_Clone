@@ -9,7 +9,7 @@ const deleteButton = document.querySelector("#delete-btn");
 let userText = null;
 
 // Your OpenAI API key (Replace with your actual API key)
-const API_KEY = "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";
+const API_KEY = "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";
 
 // Function to load chat history and theme from local storage
 const loadDataFromLocalstorage = () => {
